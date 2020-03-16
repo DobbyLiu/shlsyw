@@ -12,7 +12,7 @@
                             <b-link to="/p1" router-tag="div" class="buttonstyle">服务方式</b-link>
                             <b-link to="/p2" router-tag="div" class="buttonstyle">生产方式</b-link>
                             <b-link to="/p3" router-tag="div" class="buttonstyle">管理方式</b-link>
-                            <b-link to="/p4" router-tag="div" class="buttonstyle">关于我们</b-link>
+                            <b-link to="/p4" router-tag="div" class="buttonstyle">关于我们1</b-link>
                             <div class="buttonstyle"
                                     style="margin:0 3px 0 45px;" @click="jump()"
                             >登录<img src="../assets/hp_login_Icon@2x.png" style="width: 12px; height: 14px;margin-left: 3px;margin-bottom: 2px"></div>
