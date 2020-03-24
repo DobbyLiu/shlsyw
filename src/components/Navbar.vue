@@ -4,7 +4,7 @@
         <b-navbar class="navbar"  style="background-color: #A7A7A7;padding: 0; height: 40px;top: 40px;width: 1440px;max-width: none;">
             <b-container style="max-width: none;">
                 <b-navbar-brand style="padding: 0">
-                    <b-link to="/" router-tag="div" id="logoB"  style="width: 111px; height: 152px;margin-left: 150px;margin-top: 32px"></b-link>
+                    <b-link to="/" router-tag="div" id="logoB"  style="width: 158px; height: 84px;margin-left: 150px;margin-top: 14px"></b-link>
                 </b-navbar-brand>
                     <!-- Right aligned nav items -->
                     <b-navbar-nav >
@@ -15,7 +15,7 @@
                             <b-link to="/p4" router-tag="div" class="buttonstyle">关于我们</b-link>
                             <div class="buttonstyle"
                                     style="margin:0 3px 0 45px;" @click="jump()"
-                            >登录<img src="../assets/hp_login_Icon@2x.png" style="width: 12px; height: 14px;margin-left: 3px;margin-bottom: 2px"></div>
+                            >BDS登录<img src="../assets/hp_login_Icon@2x.png" style="width: 12px; height: 14px;margin-left: 3px;margin-bottom: 2px"></div>
 
                             <div style="width: 150px; background-color: red"></div>
                         </b-nav-form>
@@ -32,8 +32,8 @@
         },
         methods: {
             jump() {
-                // window.open("http://www.sh0315.cn/bds/sysUser/tologin")
-                this.$router.push({path:'/login'})
+                window.open("http://www.sh0315.cn/bds/sysUser/tologin")
+                //this.$router.push({path:'/login'})
             },
         },
     }
@@ -63,10 +63,10 @@
         font-weight: bold;
     }
 #logoB{
-    width: 111px;
-    height: 152px;
-    background: url("../assets/Logo_bg@2x.png") no-repeat;
-    background-size: 111px 152px;
+    width: 84px;
+    height: 158px;
+    background: url("../assets/logo0313_rou4.png") no-repeat;
+    background-size: 158px 84px;
     cursor: pointer;
 }
 </style>

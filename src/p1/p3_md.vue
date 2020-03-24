@@ -7,7 +7,10 @@
         </b-row>
         <b-row style="background-color: transparent">
             <b-col></b-col>
-            <b-col cols="3.4" style="letter-spacing: 1.4px; background-color: transparent; color: #FFFFFF; width: 470px; height: 40px;font-size: 14px;text-align: center;">以扁平化管理和信息化管理为特色，面对客户的不同需求实现高效和弹性生产方式；同时，将现代信息技术与先进的管理理念相融合。</b-col>
+            <b-col cols="3.4" style="line-height:2; letter-spacing: 1.4px; background-color: transparent; color: #FFFFFF; width: 600px; height: 50px;font-size: 14px;text-align: left;">
+                • 高效率低成本的扁平化管理，一个人多种技能，一个人多个岗位，充分利用人力资源<br>
+                • 根据实际情况开发自己的BDS软件，可以高效的管理生产和方便客户沟通
+            </b-col>
             <b-col></b-col>
         </b-row>
         <b-row style="margin-top: 52px">
@@ -15,10 +18,10 @@
                 <div  style="width: 212px; height: 212px;margin:0 18px;margin-left: 235px;"></div>
             </b-col>
             <b-col cols="2.5">
-                <img src="../assets/man-icon01@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
+                <img src="../assets/man-icon01@2x.png" style="width: 212px; height: 212px;margin:0 36px;">
             </b-col>
             <b-col cols="2.5">
-                <img src="../assets/man-icon02@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
+                <img src="../assets/man-icon02@2x.png" style="width: 212px; height: 212px;margin:0 36px;">
             </b-col>
             <b-col cols="2.5">
                 <div  style="width: 212px; height: 212px;margin:0 18px;"></div>

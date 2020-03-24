@@ -1,11 +1,18 @@
 <template>
     <b-container :class="{'bgstyle':bgstyle}" style="width: 1440px; height: 581px;max-width: none;margin-top: 40px">
         <b-row>
-            <b-col style="width:755px !important;height:472px;background-color: transparent;margin-top: 60px;padding: 0" >
-                <b-col style="padding:0;width:355px !important;height:120px;top: 234px;left: 150px;font-size: 32px;background-color: transparent;color: #EEEEEE;line-height: 60px;letter-spacing: 3.2px;text-align: justify">
-                    为制造企业提供<br>
-                    印刷品整体外包服务
+            <b-col style="width:755px !important;height:472px;background-color: transparent;margin-top: 10px;padding: 0" >
+                <b-col style="padding:0;width:474px !important;height:120px;top: 180px;left: 150px;font-size: 20px;background-color: transparent;color: #EEEEEE;line-height: 60px;letter-spacing: 3.2px;text-align: justify">
+                    ● 为企业印刷品规模需求提供嵌入式服务<br>
+                    ● 让企业像使用自己的文印部门一样方便<br>
+                    ● 让企业对自己的印刷品做到微管理、零库存<br>
+                    ● 我们并不需要更多业务，我们更需要 <br>
+
                 </b-col>
+                <b-col style="text-indent:1.6em; padding:0;width:474px !important;height:120px;top: 300px;left: 150px;font-size: 20px;background-color: transparent;color: #EEEEEE;line-height: 60px;letter-spacing: 3.2px;text-align: justify">
+                    服务好现在的客户！<br>
+                </b-col>
+
             </b-col>
             <b-col id="pg_md_r" style="background-color: transparent;margin-top: 93px">
 

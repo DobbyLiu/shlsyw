@@ -7,18 +7,27 @@
             </b-row>
             <b-row style="background-color: transparent">
                 <b-col></b-col>
-                <b-col cols="3.4" style="letter-spacing: 1.4px; background-color: transparent; color: #FFFFFF; width: 400px; height: 40px;font-size: 14px;text-align: center;">以承接客户的印刷业务为主，主要包括客户沟通、印前制作、印刷、配送等多个流程，我们按需生产、按需送货。</b-col>
+                <b-col cols="3.4" style="background-color: transparent; color: #FFFFFF; width: 340px; height: 120px;font-size: 14px;text-align: left; line-height: 2;">
+                    • 深入企业生产管理，为企业规划印刷品需求<br>
+                    • 良好的印前设计制作沟通，确保印刷稿的美观和准确<br>
+                    • 生产部门根据实际情况按需生产<br>
+                    • 配送中心准备好产品分类匹配、包装、数量<br>
+                    • 准备好货物，按需及时送货<br>
+                </b-col>
                 <b-col></b-col>
             </b-row>
         <b-row style="margin-top: 52px">
             <b-col cols="2.5">
-                <img src="../assets/ser-icon01@2x.png" style="width: 212px; height: 212px;margin:0 18px;margin-left: 235px;">
+                <img src="../assets/ser-icon01@2x.png" style="width: 212px; height: 212px;margin:0 18px;margin-left: 130px;">
             </b-col>
             <b-col cols="2.5">
                 <img src="../assets/ser-icon02@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
             </b-col>
             <b-col cols="2.5">
-                <img src="../assets/ser-icon03@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
+                <img src="../assets/pro-icon01@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
+            </b-col>
+            <b-col cols="2.5">
+                <img src="../assets/pro-icon02@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
             </b-col>
             <b-col cols="2.5">
                 <img src="../assets/ser-icon04@2x.png" style="width: 212px; height: 212px;margin:0 18px;">

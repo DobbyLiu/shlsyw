@@ -7,7 +7,10 @@
         </b-row>
         <b-row style="background-color: transparent">
             <b-col></b-col>
-            <b-col cols="3.4" style="letter-spacing: 1.4px; background-color: transparent; color: #FFFFFF; width: 400px; height: 40px;font-size: 14px;text-align: center;">以优质且高效的生产方式满足客户的不同需求，灵山印务主要分为传统生产方式和数码印刷方式进行弹性生产。</b-col>
+            <b-col cols="3.4" style="line-height: 2; letter-spacing: 1.4px; background-color: transparent; color: #FFFFFF; width: 420px; height: 50px;font-size: 14px;text-align: left;">
+                • 传统印刷车间，我们可以大批量生产，印无数张纸……<br>
+                • 数码印刷车间，我们可以小批量生产，哪怕只印一张纸……
+            </b-col>
             <b-col></b-col>
         </b-row>
         <b-row style="margin-top: 52px">
@@ -15,10 +18,10 @@
                 <div  style="width: 212px; height: 212px;margin:0 18px;margin-left: 235px;"></div>
             </b-col>
             <b-col cols="2.5">
-                <img src="../assets/pro-icon01@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
+                <img src="../assets/pro-icon01@2x.png" style="width: 212px; height: 212px;margin:0 36px;">
             </b-col>
             <b-col cols="2.5">
-                <img src="../assets/pro-icon02@2x.png" style="width: 212px; height: 212px;margin:0 18px;">
+                <img src="../assets/pro-icon02@2x.png" style="width: 212px; height: 212px;margin:0 36px;">
             </b-col>
             <b-col cols="2.5">
                 <div  style="width: 212px; height: 212px;margin:0 18px;"></div>

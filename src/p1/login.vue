@@ -1,7 +1,7 @@
 <template>
     <b-container id="login" style="max-width: none;width: 1440px;padding: 0">
         <b-row style="max-width: 1440px;margin: 0; margin-left: 150px">
-            <img @click="jump()" src="../assets/Logo_bg@2x.png" style="height: 152px;width: 111px">
+            <img @click="jump()" src="../assets/logo0313_rou4.png" style="margin-top: 25px; height: 84px;width: 158px">
         </b-row>
         <b-row class="align-items-center" style="max-width: 1440px;margin: 0;">
             <b-col sm="4">
@@ -10,7 +10,7 @@
             <b-col sm="4" style="background-color: #123893;height: 480px; opacity: 0.8;border-radius: 6px;margin-top: 58px">
                 <b-row class="align-items-center" style="text-align: center">
                   <b-col style="font-size: 20px;margin-top: 35px;color: #FFFFFF">
-                      灵山BDS登录
+                      SH0315&nbsp;BDS登录
                   </b-col>
                 </b-row>
                 <b-row>
@@ -81,7 +81,7 @@
 
             </b-col>
             <b-col style="text-align: center; margin-top: 140px;color: #FFFFFF;font-size: 12px">
-                BDS进出库后台管理系统&nbsp; ©2017
+                SH0315 BDS管理系统&nbsp; ©2020
             </b-col>
             <b-col>
 
